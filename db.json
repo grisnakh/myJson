@@ -1,61 +1,9 @@
 {
-  "ports": [
+  "posts": [
     {
       "id": 1,
-      "title": "Padang",
-	  "country": "Indonesia"
-    },
-    {
-      "id": 2,
-      "title": "Pagny",
-	  "country": "France"
-    },
-    {
-      "id": 3,
-      "title": "Pago Pago",
-	  "country": "American Samoa"
-    },
-    {
-      "id": 4,
-      "title": "Paita",
-	  "country": "Peru"
-    },
-    {
-      "id": 5,
-      "title": "Palembang",
-	  "country": "Indonesia"
-    },
-    {
-      "id": 6,
-      "title": "Palermo",
-	  "country": "Italy"
-    },
-    {
-      "id": 7,
-      "title": "Palmerston North",
-	  "country": "New Zealand"
-    },
-    {
-      "id": 8,
-      "title": "Panama",
-	  "country": "Panama"
-    },
-    {
-      "id": 9,
-      "title": "Panjang",
-	  "country": "Indonesia"
-    },
-    {
-      "id": 10,
-      "title": "Panyu",
-	  "country": "China"
-    },
-    {
-      "id": 11,
-      "title": "Piraeus",
-	  "country": "Greece"
+      "title": "hello"
     }
-	
   ],
   "profile": {
     "name": "typicode"
