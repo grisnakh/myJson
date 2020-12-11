@@ -1,327 +1,339 @@
 {
-  "ports": [
-     {
-         "id": 1,
-         "port": "Padang",
-         "country": "Indonesia"
+    "ports": [
+       {
+           "id": 1,
+           "port": "Padang",
+           "country": "Indonesia"
+        },
+        {
+           "id": 2,
+           "port": "Pagny",
+           "country": "France"
+        },
+        {
+           "id": 3,
+           "port": "Pago Pago",
+           "country": "American Samoa"
+        },
+        {
+           "id": 4,
+           "port": "Paita",
+           "country": "Peru"
+        },
+        {
+           "id": 5,
+           "port": "Palembang",
+           "country": "Indonesia"
+        },
+        {
+           "id": 6,
+           "port": "Palermo",
+           "country": "Italy"
+        },
+        {
+           "id": 7,
+           "port": "Palmerston North",
+           "country": "New Zealand"
+        },
+        {
+           "id": 8,
+           "port": "Panama",
+           "country": "Panama"
+        },
+        {
+           "id": 9,
+           "port": "Panjang",
+           "country": "Indonesia"
+        },
+        {
+           "id": 10,
+           "port": "Panyu",
+           "country": "China"
+        },
+        {
+           "id": 11,
+           "port": "Piraeus", 
+           "country": "Greece"
+        }
+    ],
+    "archivedTrips": [
+      {
+        "id": 1,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "New York",
+        "departurePort": "Piraeus",
+        "vesselId": 3000,
+        "status": "completed",
+        "actualSavings": 0.02,
+        "vesselIdName": "Amalia"
       },
       {
-         "id": 2,
-         "port": "Pagny",
-         "country": "France"
+        "id": 2,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Lisbon",
+        "departurePort": "Porto",
+        "vesselId": 3001,
+        "status": "uncompleted",
+        "actualSavings": null,
+        "vesselIdName": "Amalia"
       },
       {
-         "id": 3,
-         "port": "Pago Pago",
-         "country": "American Samoa"
+        "id": 3,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Busan",
+        "departurePort": "Shanghai",
+        "vesselId": 3001,
+        "status": "cancelled",
+        "actualSavings": null,
+        "vesselIdName": "Beirut"
       },
       {
-         "id": 4,
-         "port": "Paita",
-         "country": "Peru"
+        "id": 4,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Guangzhou",
+        "departurePort": "Qingdao",
+        "vesselId": 3000,
+        "status": "cancelled",
+        "actualSavings": null,
+        "vesselIdName": "Concordia"
       },
       {
-         "id": 5,
-         "port": "Palembang",
-         "country": "Indonesia"
+        "id": 5,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "New York",
+        "departurePort": "Hong Kong",
+        "vesselId": 3000,
+        "status": "cancelled",
+        "actualSavings": null,
+        "vesselIdName": "Enterprise"
       },
       {
-         "id": 6,
-         "port": "Palermo",
-         "country": "Italy"
+        "id": 6,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Porto",
+        "departurePort": "Shenzhen",
+        "vesselId": 3000,
+        "status": "cancelled",
+        "actualSavings": null,
+        "vesselIdName": "Rapture"
       },
       {
-         "id": 7,
-         "port": "Palmerston North",
-         "country": "New Zealand"
+        "id": 7,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "New York",
+        "departurePort": "Los Angeles",
+        "vesselId": 3001,
+        "status": "completed",
+        "actualSavings": 0.04,
+        "vesselIdName": "Prometheus"
       },
       {
-         "id": 8,
-         "port": "Panama",
-         "country": "Panama"
+        "id": 8,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Piraeus",
+        "departurePort": "New Jersey",
+        "vesselId": 3001,
+        "status": "completed",
+        "actualSavings": 0.032,
+        "vesselIdName": "Amalia"
       },
       {
-         "id": 9,
-         "port": "Panjang",
-         "country": "Indonesia"
+        "id": 9,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Piraeus",
+        "departurePort": "New Porto",
+        "vesselId": 3001,
+        "status": "completed",
+        "actualSavings": 0.05,
+        "vesselIdName": "Concordia"
       },
       {
-         "id": 10,
-         "port": "Panyu",
-         "country": "China"
+        "id": 10,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Guangzhou",
+        "departurePort": "Qingdao",
+        "vesselId": 3000,
+        "status": "completed",
+        "actualSavings": 0.05,
+        "vesselIdName": "Rapture"
       },
       {
-         "id": 11,
-         "port": "Piraeus", 
-         "country": "Greece"
+        "id": 11,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Guangzhou",
+        "departurePort": "New Jersey",
+        "vesselId": 3000,
+        "status": "uncompleted",
+        "actualSavings": null,
+        "vesselIdName": "Prometheus"
+      },
+      {
+        "id": 12,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Piraeus",
+        "departurePort": "Qingdao",
+        "vesselId": 3000,
+        "status": "uncompleted",
+        "actualSavings": null,
+        "vesselIdName": "Leonidas"
+      },{
+        "id": 13,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "New York",
+        "departurePort": "Piraeus",
+        "vesselId": 3000,
+        "status": "completed",
+        "actualSavings": 0.02,
+        "vesselIdName": "Amalia"
+      },
+      {
+        "id": 14,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Lisbon",
+        "departurePort": "Porto",
+        "vesselId": 3001,
+        "status": "uncompleted",
+        "actualSavings": null,
+        "vesselIdName": "Amalia"
+      },
+      {
+        "id": 15,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Busan",
+        "departurePort": "Shanghai",
+        "vesselId": 3001,
+        "status": "cancelled",
+        "actualSavings": null,
+        "vesselIdName": "Beirut"
+      },
+      {
+        "id": 16,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Guangzhou",
+        "departurePort": "Qingdao",
+        "vesselId": 3000,
+        "status": "cancelled",
+        "actualSavings": null,
+        "vesselIdName": "Concordia"
+      },
+      {
+        "id": 17,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "New York",
+        "departurePort": "Hong Kong",
+        "vesselId": 3000,
+        "status": "cancelled",
+        "actualSavings": null,
+        "vesselIdName": "Enterprise"
+      },
+      {
+        "id": 18,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Porto",
+        "departurePort": "Shenzhen",
+        "vesselId": 3000,
+        "status": "cancelled",
+        "actualSavings": null,
+        "vesselIdName": "Rapture"
+      },
+      {
+        "id": 19,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "New York",
+        "departurePort": "Los Angeles",
+        "vesselId": 3001,
+        "status": "completed",
+        "actualSavings": 0.04,
+        "vesselIdName": "Prometheus"
+      },
+      {
+        "id": 20,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Piraeus",
+        "departurePort": "New Jersey",
+        "vesselId": 3001,
+        "status": "completed",
+        "actualSavings": 0.032,
+        "vesselIdName": "Amalia"
+      },
+      {
+        "id": 21,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Piraeus",
+        "departurePort": "New Porto",
+        "vesselId": 3001,
+        "status": "completed",
+        "actualSavings": 0.05,
+        "vesselIdName": "Concordia"
+      },
+      {
+        "id": 22,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Guangzhou",
+        "departurePort": "Qingdao",
+        "vesselId": 3000,
+        "status": "completed",
+        "actualSavings": 0.05,
+        "vesselIdName": "Rapture"
+      },
+      {
+        "id": 23,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Guangzhou",
+        "departurePort": "New Jersey",
+        "vesselId": 3000,
+        "status": "uncompleted",
+        "actualSavings": null,
+        "vesselIdName": "Prometheus"
+      },
+      {
+        "id": 24,
+        "startDate": 1593367200000,
+        "endDate": 1593691200000,
+        "arrivalPort": "Piraeus",
+        "departurePort": "Qingdao",
+        "vesselId": 3000,
+        "status": "uncompleted",
+        "actualSavings": null,
+        "vesselIdName": "Leonidas"
       }
-  ],
-  "archivedTrips": [
-    {
-      "id": 1,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "New York",
-      "departurePort": "Piraeus",
-      "vesselId": 3000,
-      "status": "completed",
-      "actualSavings": 0.02,
-      "vesselIdName": "Amalia"
+    ],
+    "vesselInfo": {
+         "id": 1,
+         "totalTime": 66.5,
+         "totalDistance": 8428,
+         "avgSog": 12.2,
+         "avgCons": 20,
+        "violatedWaypoints": 20,
+        "violatedWaypointsPercentage": 0.32,
+        "avgTimeDif": 5,
+        "avgSpeedDif": 1.5
     },
-    {
-      "id": 2,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Lisbon",
-      "departurePort": "Porto",
-      "vesselId": 3001,
-      "status": "uncompleted",
-      "actualSavings": null,
-      "vesselIdName": "Amalia"
-    },
-    {
-      "id": 3,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Busan",
-      "departurePort": "Shanghai",
-      "vesselId": 3001,
-      "status": "cancelled",
-      "actualSavings": null,
-      "vesselIdName": "Beirut"
-    },
-    {
-      "id": 4,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Guangzhou",
-      "departurePort": "Qingdao",
-      "vesselId": 3000,
-      "status": "cancelled",
-      "actualSavings": null,
-      "vesselIdName": "Concordia"
-    },
-    {
-      "id": 5,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "New York",
-      "departurePort": "Hong Kong",
-      "vesselId": 3000,
-      "status": "cancelled",
-      "actualSavings": null,
-      "vesselIdName": "Enterprise"
-    },
-    {
-      "id": 6,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Porto",
-      "departurePort": "Shenzhen",
-      "vesselId": 3000,
-      "status": "cancelled",
-      "actualSavings": null,
-      "vesselIdName": "Rapture"
-    },
-    {
-      "id": 7,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "New York",
-      "departurePort": "Los Angeles",
-      "vesselId": 3001,
-      "status": "completed",
-      "actualSavings": 0.04,
-      "vesselIdName": "Prometheus"
-    },
-    {
-      "id": 8,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Piraeus",
-      "departurePort": "New Jersey",
-      "vesselId": 3001,
-      "status": "completed",
-      "actualSavings": 0.032,
-      "vesselIdName": "Amalia"
-    },
-    {
-      "id": 9,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Piraeus",
-      "departurePort": "New Porto",
-      "vesselId": 3001,
-      "status": "completed",
-      "actualSavings": 0.05,
-      "vesselIdName": "Concordia"
-    },
-    {
-      "id": 10,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Guangzhou",
-      "departurePort": "Qingdao",
-      "vesselId": 3000,
-      "status": "completed",
-      "actualSavings": 0.05,
-      "vesselIdName": "Rapture"
-    },
-    {
-      "id": 11,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Guangzhou",
-      "departurePort": "New Jersey",
-      "vesselId": 3000,
-      "status": "uncompleted",
-      "actualSavings": null,
-      "vesselIdName": "Prometheus"
-    },
-    {
-      "id": 12,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Piraeus",
-      "departurePort": "Qingdao",
-      "vesselId": 3000,
-      "status": "uncompleted",
-      "actualSavings": null,
-      "vesselIdName": "Leonidas"
-    },{
-      "id": 13,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "New York",
-      "departurePort": "Piraeus",
-      "vesselId": 3000,
-      "status": "completed",
-      "actualSavings": 0.02,
-      "vesselIdName": "Amalia"
-    },
-    {
-      "id": 14,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Lisbon",
-      "departurePort": "Porto",
-      "vesselId": 3001,
-      "status": "uncompleted",
-      "actualSavings": null,
-      "vesselIdName": "Amalia"
-    },
-    {
-      "id": 15,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Busan",
-      "departurePort": "Shanghai",
-      "vesselId": 3001,
-      "status": "cancelled",
-      "actualSavings": null,
-      "vesselIdName": "Beirut"
-    },
-    {
-      "id": 16,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Guangzhou",
-      "departurePort": "Qingdao",
-      "vesselId": 3000,
-      "status": "cancelled",
-      "actualSavings": null,
-      "vesselIdName": "Concordia"
-    },
-    {
-      "id": 17,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "New York",
-      "departurePort": "Hong Kong",
-      "vesselId": 3000,
-      "status": "cancelled",
-      "actualSavings": null,
-      "vesselIdName": "Enterprise"
-    },
-    {
-      "id": 18,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Porto",
-      "departurePort": "Shenzhen",
-      "vesselId": 3000,
-      "status": "cancelled",
-      "actualSavings": null,
-      "vesselIdName": "Rapture"
-    },
-    {
-      "id": 19,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "New York",
-      "departurePort": "Los Angeles",
-      "vesselId": 3001,
-      "status": "completed",
-      "actualSavings": 0.04,
-      "vesselIdName": "Prometheus"
-    },
-    {
-      "id": 20,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Piraeus",
-      "departurePort": "New Jersey",
-      "vesselId": 3001,
-      "status": "completed",
-      "actualSavings": 0.032,
-      "vesselIdName": "Amalia"
-    },
-    {
-      "id": 21,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Piraeus",
-      "departurePort": "New Porto",
-      "vesselId": 3001,
-      "status": "completed",
-      "actualSavings": 0.05,
-      "vesselIdName": "Concordia"
-    },
-    {
-      "id": 22,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Guangzhou",
-      "departurePort": "Qingdao",
-      "vesselId": 3000,
-      "status": "completed",
-      "actualSavings": 0.05,
-      "vesselIdName": "Rapture"
-    },
-    {
-      "id": 23,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Guangzhou",
-      "departurePort": "New Jersey",
-      "vesselId": 3000,
-      "status": "uncompleted",
-      "actualSavings": null,
-      "vesselIdName": "Prometheus"
-    },
-    {
-      "id": 24,
-      "startDate": 1593367200000,
-      "endDate": 1593691200000,
-      "arrivalPort": "Piraeus",
-      "departurePort": "Qingdao",
-      "vesselId": 3000,
-      "status": "uncompleted",
-      "actualSavings": null,
-      "vesselIdName": "Leonidas"
+    "profile": {
+      "name": "typicode"
     }
-  ],
-  "profile": {
-    "name": "typicode"
   }
-}
+  
