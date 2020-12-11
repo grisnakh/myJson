@@ -321,7 +321,7 @@
         "vesselIdName": "Leonidas"
       }
     ],
-    "vesselInfo": [
+    "vesselInfo": {
         "data": {
          "id": 1,
          "totalTime": 66.5,
@@ -333,7 +333,7 @@
         "avgTimeDif": 5,
         "avgSpeedDif": 1.5
         }
-    ],
+    },
     "profile": {
       "name": "typicode"
     }
