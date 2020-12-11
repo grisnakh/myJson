@@ -331,7 +331,10 @@
         "violatedWaypoints": 20,
         "violatedWaypointsPercentage": 0.32,
         "avgTimeDif": 5,
-        "avgSpeedDif": 1.5
+        "avgSpeedDif": 1.5,
+        "estSavings": 2847,
+        "estSavingsAmount": 15000,
+        "fuelCons": 410000
         }
     },
     "profile": {
