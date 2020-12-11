@@ -321,7 +321,8 @@
         "vesselIdName": "Leonidas"
       }
     ],
-    "vesselInfo": {
+    "vesselInfo": [
+        "data": {
          "id": 1,
          "totalTime": 66.5,
          "totalDistance": 8428,
@@ -331,7 +332,8 @@
         "violatedWaypointsPercentage": 0.32,
         "avgTimeDif": 5,
         "avgSpeedDif": 1.5
-    },
+        }
+    ],
     "profile": {
       "name": "typicode"
     }
