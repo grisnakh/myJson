@@ -337,6 +337,21 @@
         "fuelCons": 410000
         }
     },
+    "meInfo": {
+        "lengthOverall": 274.22,
+        "lengthPerpendiculars": 263.14,
+        "breadth": 48.0,
+        "depth": 23.1,
+        "td": 16.0,
+        "ts": 17.15,
+        "keelToMast": null,
+        "id": 1,
+        "uuid": "fc589cd1-0504-4a34-a065-ba5708fabff0",
+        "vesselId": 6000,
+        "minDraught": 9.0,
+        "maxDraught": 17.15,
+        "dwt": 158871.3
+    },
     "profile": {
       "name": "typicode"
     }
