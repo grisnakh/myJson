@@ -338,19 +338,16 @@
         }
     },
     "meInfo": {
-        "lengthOverall": 274.22,
-        "lengthPerpendiculars": 263.14,
-        "breadth": 48.0,
-        "depth": 23.1,
-        "td": 16.0,
-        "ts": 17.15,
-        "keelToMast": null,
+        "meMaker": "HYUNDAI-MAN B&W",
+        "meModel": "6G70ME-C9.2",
+        "meMcrBhp": 22247.55,
+        "meMcrKw": 16590.0,
+        "noCyllinders": 6,
+        "noTurboCharger": 1,
+        "sfoc": 170,
         "id": 1,
-        "uuid": "fc589cd1-0504-4a34-a065-ba5708fabff0",
-        "vesselId": 6000,
-        "minDraught": 9.0,
-        "maxDraught": 17.15,
-        "dwt": 158871.3
+        "uuid": "62d63dab-1d9d-499f-8b01-c4b216fc7e7a",
+        "vesselId": 6000
     },
     "profile": {
       "name": "typicode"
