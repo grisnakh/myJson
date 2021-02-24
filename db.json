@@ -307,8 +307,46 @@
         "maxDraught": 17.15,
         "dwt": 158871.3
     },
-    "profile": {
-      "name": "typicode"
-    }
+    "geInfo": [{
+        "id": 44,
+        "uuid": "fd6c74e5-18fc-4c90-b03f-7bfd053a3cb4",
+        "vesselId": 5,
+        "engineCode": 1,
+        "set": 1,
+        "maker": "DAIHATSU",
+        "model": "6DK-28",
+        "erMcrKw": 1800.0,
+        "tcModel": "MITSUBISHI MET26SR"
+    }, {
+        "id": 43,
+        "uuid": "7bad94b4-debf-48ef-a72e-1e2cc265eb79",
+        "vesselId": 5,
+        "engineCode": 2,
+        "set": 2,
+        "maker": "DAIHATSU",
+        "model": "6DK-28",
+        "erMcrKw": 1800.0,
+        "tcModel": "MITSUBISHI MET26SR"
+    }, {
+        "id": 45,
+        "uuid": "ac661f83-17f9-4216-8601-6f0e910acda5",
+        "vesselId": 5,
+        "engineCode": 3,
+        "set": 2,
+        "maker": "DAIHATSU",
+        "model": "8DK-28",
+        "erMcrKw": 2120.0,
+        "tcModel": "MITSUBISHI MET30SR"
+    }, {
+        "id": 42,
+        "uuid": "bffc3f48-2aa9-4f2d-a355-c7ace7c89f82",
+        "vesselId": 5,
+        "engineCode": 4,
+        "set": 1,
+        "maker": "DAIHATSU",
+        "model": "8DK-28",
+        "erMcrKw": 2120.0,
+        "tcModel": "MITSUBISHI MET30SR"
+    }]
   }
   
