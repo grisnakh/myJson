@@ -327,26 +327,6 @@
         "model": "6DK-28",
         "erMcrKw": 1800.0,
         "tcModel": "MITSUBISHI MET26SR"
-    }, {
-        "id": 45,
-        "uuid": "ac661f83-17f9-4216-8601-6f0e910acda5",
-        "vesselId": 5,
-        "engineCode": 3,
-        "set": 2,
-        "maker": "DAIHATSU",
-        "model": "8DK-28",
-        "erMcrKw": 2120.0,
-        "tcModel": "MITSUBISHI MET30SR"
-    }, {
-        "id": 42,
-        "uuid": "bffc3f48-2aa9-4f2d-a355-c7ace7c89f82",
-        "vesselId": 5,
-        "engineCode": 4,
-        "set": 1,
-        "maker": "DAIHATSU",
-        "model": "8DK-28",
-        "erMcrKw": 2120.0,
-        "tcModel": "MITSUBISHI MET30SR"
     }]
   }
   
